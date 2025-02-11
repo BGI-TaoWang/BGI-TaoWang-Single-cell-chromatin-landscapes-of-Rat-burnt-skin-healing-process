@@ -1,4 +1,4 @@
-## Rat Burnt Skin Atlas
+## Rat Burnt Skin scATAC Atlas
 **work_script:** contain the code for analysis scATAC-seq data  
 
 **draw_script:** contain the code for drawing  figures in the article  
